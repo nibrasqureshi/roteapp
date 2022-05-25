@@ -1,0 +1,8 @@
+.img-responsive{
+    transition: 0.5s;
+    
+}
+.img-responsive:hover{
+    transform: scale(1.1);
+    
+}
